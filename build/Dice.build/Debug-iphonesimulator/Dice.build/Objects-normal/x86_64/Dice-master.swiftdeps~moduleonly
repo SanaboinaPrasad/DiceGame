@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "9701176309ae7954449245c182a2c33b"
+build_time: [1539929724, 651222000]
+inputs:
+  "/Users/sriramprasad/Dev/Dice/Dice/ViewController.swift": [1539929723, 0]
+  "/Users/sriramprasad/Dev/Dice/Dice/AppDelegate.swift": [1539928171, 0]
